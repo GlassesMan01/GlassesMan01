@@ -37,12 +37,19 @@ Passionate about cybersecurity, digital forensics, and full-stack development. I
 
 ## 🎓 Certifications
 📜 **Google IT Support Specialization** (Google)
+
 📜 **Purple Teaming Fundamentals** (CyberWarFare Labs)
+
 📜 **C3SA Premium Edition** (CyberWarFare Labs) 
+
 📜 **iOS Forensics with Belkasoft** (Belkasoft) 
+
 📜 **Maximizing DFIR Results with YARA, Sigma, and Belkasoft X** (Belkasoft) 
+
 📜 **Microsoft Certified: Azure Fundamentals (AZ-900)** (Microsoft)  
+
 📜 **Cybersecurity for Everyone** (University of Maryland)   
+
 📜 **Linux Fundamentals for Cyber Security | Ethical Hacking Basic** (Udemy)
 
 ---
